@@ -1,91 +1,100 @@
+<!--
+  GitHub profile README for github.com/sergiu-sa
+  Keep this file and fed-header.svg at the ROOT of the profile repo (sergiu-sa/sergiu-sa).
+  Concept: a declassified case file. Palette — oxblood #c4152b · ink #1a1712 · manila #ece6d8.
+-->
 
 <div align="center">
 
-<!-- HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Sergiu+Sarbu;Front-End+Developer;Building+clean+web+experiences;Always+shipping)](https://git.io/typing-svg)
+<img src="fed-header.svg" width="100%" alt="Federal Bureau of Front-End Development — Case File. Subject: Sergiu Sarbu, Front-End Developer, Oslo, Norway.">
 
+<br><br>
 
-</div>
-
----
-
-### About Me
-
-I'm a front-end developer in my final year at Noroff, focused on building responsive, user-centered web applications. I care about clean code, thoughtful UI, and shipping things that actually work well. Currently exploring the intersection of AI and modern web development.
-
-- Currently building my **developer portfolio**
-- Deepening my skills in **React, Next.js & TypeScript**
-- Ask me about **front-end architecture, responsive design, or CSS**
-- Open to **freelance work, collaborations & entry-level roles**
-
----
-
-<div align="center">
-
-### See My Work
-
-<br>
-
-<a href="https://portfoliosergiusarbu.netlify.app/">
-<img src="https://img.shields.io/badge/%E2%9C%A6%20%20EXPLORE%20MY%20PORTFOLIO%20%20%E2%9C%A6-58A6FF?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Portfolio" height="50"/>
+<a href="https://portfolio-sergiu-sa.netlify.app/">
+  <img src="https://img.shields.io/badge/%E2%96%B8%20%20OPEN%20THE%20CASE%20FILE%20%20%E2%97%82-c4152b?style=for-the-badge&labelColor=1a1712&logoColor=ece6d8" height="42" alt="Open the portfolio">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:sergiudsarbu@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT%20THE%20SUBJECT-1a1712?style=for-the-badge&labelColor=1a1712&logo=gmail&logoColor=ece6d8" height="42" alt="Contact by email">
 </a>
 
-<br>
-
 </div>
-
----
-
-### ⚙️ Tech Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sergiu-sa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiu-sa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sergiu-sa&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+<!-- ─────────────────────────────  01  ───────────────────────────── -->
 
-</div>
+![01](https://img.shields.io/badge/01-SUBJECT%20RECORD-1a1712?style=flat-square&labelColor=c4152b)
 
----
+> **Final-year Front-End Development student at Noroff, Oslo — graduating 2026.**
+> I build responsive, user-centred web applications and care about clean code, deliberate UI, and shipping things that actually work. I'd rather deliver information through a **concept** than a template.
 
-<div align="center">
-
-### Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliosergiusarbu.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiu-sarbu-39154226a/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergiudsarbu@gmail.com)
+```text
+SUBJECT      Sergiu Sarbu
+DISCIPLINE   Front-End Development · React · Next.js · TypeScript
+CURRENTLY    new stacks · motion with GSAP · AI-assisted workflows
+ASK ME       front-end architecture · responsive design · CSS systems
+STATUS       ACTIVE — open to freelance, collaborations & entry-level roles
+```
 
 <br>
 
-**💡 Open to freelance projects, collaborations & entry-level opportunities.**
+<!-- ─────────────────────────────  02  ───────────────────────────── -->
+
+![02](https://img.shields.io/badge/02-FIELD%20KIT-1a1712?style=flat-square&labelColor=c4152b)
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-1a1712?style=flat-square&logo=javascript&logoColor=c4152b" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-1a1712?style=flat-square&logo=typescript&logoColor=c4152b" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-1a1712?style=flat-square&logo=react&logoColor=c4152b" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-1a1712?style=flat-square&logo=nextdotjs&logoColor=c4152b" alt="Next.js">
+  <img src="https://img.shields.io/badge/Vite-1a1712?style=flat-square&logo=vite&logoColor=c4152b" alt="Vite">
+  <img src="https://img.shields.io/badge/Tailwind-1a1712?style=flat-square&logo=tailwindcss&logoColor=c4152b" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/GSAP-1a1712?style=flat-square&logo=greensock&logoColor=c4152b" alt="GSAP">
+  <img src="https://img.shields.io/badge/HTML5-1a1712?style=flat-square&logo=html5&logoColor=c4152b" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1a1712?style=flat-square&logo=css3&logoColor=c4152b" alt="CSS3">
+  <img src="https://img.shields.io/badge/Git-1a1712?style=flat-square&logo=git&logoColor=c4152b" alt="Git">
+  <img src="https://img.shields.io/badge/Figma-1a1712?style=flat-square&logo=figma&logoColor=c4152b" alt="Figma">
+  <img src="https://img.shields.io/badge/Netlify-1a1712?style=flat-square&logo=netlify&logoColor=c4152b" alt="Netlify">
+</p>
+
+<br>
+
+<!-- ─────────────────────────────  03  ───────────────────────────── -->
+
+![03](https://img.shields.io/badge/03-ACTIVITY%20LOG-1a1712?style=flat-square&labelColor=c4152b)
+
+<div align="center">
+
+<img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sergiu-sa&show_icons=true&hide_border=true&bg_color=ece6d8&title_color=c4152b&text_color=1a1712&icon_color=c4152b" />
+<img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiu-sa&layout=compact&hide_border=true&bg_color=ece6d8&title_color=c4152b&text_color=1a1712" />
+
+<br><br>
+
+<img alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com?user=sergiu-sa&hide_border=true&background=ece6d8&stroke=ddd3bd&ring=c4152b&fire=c4152b&currStreakLabel=c4152b&sideLabels=1a1712&dates=9a9078&currStreakNum=1a1712&sideNums=1a1712" />
+
+</div>
+
+<br>
+
+<!-- ─────────────────────────────  04  ───────────────────────────── -->
+
+![04](https://img.shields.io/badge/04-CHAIN%20OF%20CUSTODY-1a1712?style=flat-square&labelColor=c4152b)
+
+<p>
+  <a href="https://portfolio-sergiu-sa.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-c4152b?style=flat-square&logo=netlify&logoColor=ece6d8" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/sergiu-sarbu-39154226a/"><img src="https://img.shields.io/badge/LinkedIn-1a1712?style=flat-square&logo=linkedin&logoColor=c4152b" alt="LinkedIn"></a>
+  <a href="mailto:sergiudsarbu@gmail.com"><img src="https://img.shields.io/badge/Email-1a1712?style=flat-square&logo=gmail&logoColor=c4152b" alt="Email"></a>
+</p>
+
+<br>
+
+<div align="center">
+
+![FILE](https://img.shields.io/badge/CASE%20FILE-FED--2026--001-c4152b?style=flat-square&labelColor=1a1712)
+
+**IN CODE WE TRUST — EVERYTHING ELSE WE INSPECT**
+
+<sub>Open to freelance projects, collaborations & entry-level opportunities.</sub>
 
 </div>
