@@ -25,7 +25,8 @@
 ### `01` // PROFILE & FOCUS
 
 > **Front-End Development graduate from Noroff, Oslo (2026).**  
-> I build responsive, user-centred web applications with clean code, deliberate UI, and things that actually ship. I'd rather deliver information through a concept than a template.
+> I'm a creative explorer and an occasional chaos mechanic with a mind wired for problem-solving.
+> I build responsive, user-centred web applications with clean code, deliberate UI, and things that ship.
 
 `[✓]` Building modern web applications with **React**, **TypeScript**, and **Next.js**.  
 `[✓]` UI motion choreography and micro-interactions with **GSAP**.  
@@ -43,19 +44,7 @@
 
 ---
 
-### `03` // SELECTED WORKS
-
-**Personal Portfolio**  `Next.js` `Tailwind` `GSAP`  
-
-Minimalist portfolio of interactive web experiments, motion design, and deliberate UI.  [Live demo ↗](https://portfolio-sergiu-sa.netlify.app/)
-
-<sub>More responsive applications, component experiments and coursework across my [public repositories ↗](https://github.com/sergiu-sa).</sub>
-
----
-
 <div align="center">
-
-`END OF SPECIFICATION`
 
 <sub>Open to freelance projects, collaborations & entry-level opportunities.</sub>
 
