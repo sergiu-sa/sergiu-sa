@@ -22,7 +22,7 @@ jobs:
 
       - uses: yalongwastaken/git-koi@7305e9b1fadee6f43d3b4fa543a25d4cde79856e # v1.0.2
         with:
-          body: white
+          body: asagi
           output-dir: koi-out
 
       - uses: actions/setup-python@v7

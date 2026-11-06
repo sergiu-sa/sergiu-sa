@@ -25,7 +25,7 @@ I'm a creative explorer and an occasional chaos mechanic, with a mind wired for 
   <img src="./assets/koi-tooltip.svg" width="338" alt="" /><br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sergiu-sa/sergiu-sa/koi/koi-dark.gif" />
-    <img src="https://raw.githubusercontent.com/sergiu-sa/sergiu-sa/koi/koi-light.gif" width="338" alt="A pixel-art koi swimming inside a DevTools box-model highlight." />
+    <img src="https://raw.githubusercontent.com/sergiu-sa/sergiu-sa/koi/koi-light.gif" width="507" alt="A pixel-art koi swimming inside a DevTools box-model highlight." />
   </picture>
 </p>
 

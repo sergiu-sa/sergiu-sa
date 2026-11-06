@@ -10,8 +10,11 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageSequence
 
-SCALE = 2  # git-koi draws at twice its pixel size, so the box matches.
-MARGIN, BORDER, PADDING, CONTENT = (n * SCALE for n in (24, 1, 16, 256))
+NATIVE = 256  # git-koi's canvas in koi pixels; its GIF is drawn at twice that.
+# Three image pixels per koi pixel, shown at half size in the README, so the
+# pixel art stays sharp on 2x screens when the box is displayed 1.5x larger.
+SCALE = 3
+MARGIN, BORDER, PADDING, CONTENT = (n * SCALE for n in (24, 1, 16, NATIVE))
 INSET = MARGIN + BORDER + PADDING
 SIZE = CONTENT + 2 * INSET
 
@@ -64,10 +67,16 @@ def backdrop(page):
 
 def bake(koi_path, out_dir):
     koi = Image.open(koi_path)
-    if koi.size != (CONTENT, CONTENT):
-        sys.exit(f"expected a {CONTENT}x{CONTENT} koi, got {koi.size[0]}x{koi.size[1]}")
+    if koi.size != (2 * NATIVE, 2 * NATIVE):
+        sys.exit(f"expected a {2 * NATIVE}x{2 * NATIVE} koi, got {koi.size[0]}x{koi.size[1]}")
+
+    def koi_pixels(frame):
+        # Back to one image pixel per koi pixel, then up again, so every koi pixel is an even square.
+        native = frame.convert("RGBA").resize((NATIVE, NATIVE), Image.Resampling.NEAREST)
+        return native.resize((CONTENT, CONTENT), Image.Resampling.NEAREST)
+
     # Pillow hands back each frame already composited, so frames can be pasted whole.
-    frames = [(frame.convert("RGBA"), frame.info.get("duration", 67)) for frame in ImageSequence.Iterator(koi)]
+    frames = [(koi_pixels(frame), frame.info.get("duration", 67)) for frame in ImageSequence.Iterator(koi)]
 
     for name, page in PAGES.items():
         base = backdrop(page)
