@@ -1,51 +1,41 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <img src="./assets/header-light.svg" width="880" alt="Sergiu Sarbu" />
+</picture>
 
-<img src="./craft-header.svg" width="100%" alt="Sergiu Sarbu — Front-End Developer" />
+### Front-end developer in Oslo, Norway
 
-<br><br>
+I'm a creative explorer and an occasional chaos mechanic, with a mind wired for problem-solving. I build responsive, user-centred web apps with clean code and deliberate UI.
 
-<a href="https://portfolio-sergiu-sa.netlify.app/">
-  <img src="https://img.shields.io/badge/INDEX_PORTFOLIO-18181b?style=flat-square&labelColor=09090b&logo=safari&logoColor=fafafa" height="34" alt="Portfolio" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sergiu-sarbu-39154226a/">
-  <img src="https://img.shields.io/badge/LINKEDIN-18181b?style=flat-square&labelColor=09090b&logo=linkedin&logoColor=fafafa" height="34" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:sergiudsarbu@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT-18181b?style=flat-square&labelColor=09090b&logo=gmail&logoColor=fafafa" height="34" alt="Email" />
-</a>
+<p>
+  <a href="mailto:sergiudsarbu@gmail.com"><img src="./assets/status.svg" width="309" alt="Open to work, freelance and collaborations" /></a><br />
+  <a href="https://portfolio-sergiu-sa.netlify.app/"><img src="./assets/link-portfolio.svg" width="100" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sergiu-sarbu-39154226a/"><img src="./assets/link-linkedin.svg" width="100" alt="LinkedIn" /></a>
+  <a href="mailto:sergiudsarbu@gmail.com"><img src="./assets/link-email.svg" width="100" alt="Email" /></a>
+</p>
 
-</div>
+### Stack
 
-<br>
+- **Languages:** `TypeScript` `JavaScript` `HTML` `CSS`
+- **Frameworks:** `React` `Next.js`
+- **Styling and motion:** `Tailwind CSS` `CSS Modules` `GSAP`
+- **Tools:** `Vite` `Git` `Figma` `Netlify` `AI-assisted workflows`
 
----
+<p>
+  <img src="./assets/koi-tooltip.svg" width="338" alt="" /><br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sergiu-sa/sergiu-sa/koi/koi-dark.gif" />
+    <img src="https://raw.githubusercontent.com/sergiu-sa/sergiu-sa/koi/koi-light.gif" width="338" alt="A pixel-art koi swimming inside a DevTools box-model highlight." />
+  </picture>
+</p>
 
-### `01` // PROFILE & FOCUS
+<sub>This koi grows with my GitHub activity. Every night it's redrawn from the day before.</sub>
 
-> **Front-End Development graduate from Noroff, Oslo (2026).**  
-> I'm a creative explorer and an occasional chaos mechanic with a mind wired for problem-solving.
-> I build responsive, user-centred web applications with clean code, deliberate UI, and things that ship.
+<details>
+<summary><b>Recently shipped</b></summary>
 
-`[✓]` Building modern web applications with **React**, **TypeScript**, and **Next.js**.  
-`[✓]` UI motion choreography and micro-interactions with **GSAP**.  
-`[✓]` Building and integrating with **AI-assisted workflows & tooling**.
+- [**Filmood**](https://filmood-pi.vercel.app): pick a mood, get a film to watch tonight.
+- [**Holidaze**](https://holidaze-black.vercel.app): book a place to stay, or list your own.
+- [**Auction House**](https://auctohouse.netlify.app/): bid on listings with credits, on the Noroff API.
 
----
-
-### `02` // TECHNICAL STACK
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Core Front-End** | `JavaScript (ES6+)` `TypeScript` `React` `Next.js` `HTML5` `CSS3` |
-| **Styling & Motion** | `Tailwind CSS` `GSAP` `CSS Modules` `Responsive Design` |
-| **Tooling & AI** | `Vite` `Git` `GitHub` `Figma` `Netlify` `AI Integration & Workflows` |
-
----
-
-<div align="center">
-
-<sub>Open to freelance projects, collaborations & entry-level opportunities.</sub>
-
-</div>
+</details>

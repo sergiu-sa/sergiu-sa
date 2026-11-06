@@ -1,0 +1,47 @@
+name: Koi
+
+on:
+  schedule:
+    # Just after midnight UTC, so the koi shows the day that just ended.
+    - cron: "20 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/koi.yml, scripts/koi_box.py]
+
+permissions:
+  contents: write
+
+concurrency: koi
+
+jobs:
+  koi:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: yalongwastaken/git-koi@7305e9b1fadee6f43d3b4fa543a25d4cde79856e # v1.0.2
+        with:
+          body: white
+          output-dir: koi-out
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+
+      - name: Draw the box around the koi
+        run: |
+          pip install --quiet pillow
+          python scripts/koi_box.py koi-out/koi.gif koi-out
+
+      # A single force-pushed commit on its own branch, so nightly GIFs never pile up in main's history.
+      - name: Publish to the koi branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd koi-out
+          git init --quiet --initial-branch=koi
+          git add koi-dark.gif koi-light.gif
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit --quiet --message "koi: draw the day's koi"
+          git push --quiet --force "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" koi
