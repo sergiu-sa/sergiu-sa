@@ -27,4 +27,4 @@
 
 ### Stack
 
-`React` `Next.js` `Tailwind CSS` `CSS Modules` `GSAP` `Vite` `Git` `Figma` `Netlify`
+`CSS / Sass` `Git & GitHub` `Tailwind CSS` `Figma` `REST APIs` `AI-assisted workflows` `LLM APIs` `React` `Three.js` `Vitest` `Playwright`

@@ -177,7 +177,8 @@ def key_svg(rows, total, colors, streak, body, theme):
             parts.append(f'<text x="150" y="{y + 5}" {font} font-size="14" fill="{t["mute"]}">{share}</text>')
         # The two lit shades; a ramp's darkest step is shadow and reads as grey on its own.
         for k, color in enumerate(swatch[-2:]):
-            parts.append(f'<rect x="{200 + k * 17}" y="{y - 7}" width="14" height="14" fill="{color}"/>')
+            # The outline keeps pale shades like light yellow visible on the light card.
+            parts.append(f'<rect x="{200.5 + k * 17}" y="{y - 6.5}" width="13" height="13" fill="{color}" stroke="{t["line"]}"/>')
         parts.append(f'<text x="242" y="{y + 5}" {font} font-size="13" fill="{t["ink"]}" fill-opacity="0.85">{escape(paints)}</text>')
     parts.append(f'<text x="24" y="360" {font} font-size="12" fill="{t["mute"]}">From {total} public repos. Redrawn every night at 00:20 UTC.</text>')
     parts.append("</svg>")
