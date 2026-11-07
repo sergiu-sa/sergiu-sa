@@ -5,6 +5,9 @@
 Writes koi-{dark,light}.gif, key-{dark,light}.svg and scales-{dark,light}.svg.
 The key and the scales read the same snapshot git-koi paints the koi from, so the
 colours on the page always match the fish.
+
+The pigment rules and colour ramps follow git-koi by Anthony Yalong (MIT licence):
+https://github.com/yalongwastaken/git-koi
 """
 
 import json

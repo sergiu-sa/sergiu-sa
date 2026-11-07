@@ -28,3 +28,5 @@
 ### Stack
 
 `CSS / Sass` `Git & GitHub` `Tailwind CSS` `Figma` `REST APIs` `AI-assisted workflows` `LLM APIs` `React` `Three.js` `Vitest` `Playwright`
+
+<sub>The koi is drawn by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a>.</sub>
