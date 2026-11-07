@@ -1,0 +1,3 @@
+# The koi scripts are tooling, not what this profile is written in, and git-koi
+# reads this repo's language like any other.
+scripts/** linguist-detectable=false

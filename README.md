@@ -1,41 +1,30 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
-  <img src="./assets/header-light.svg" width="880" alt="Sergiu Sarbu" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sergiu-sa/sergiu-sa/koi/scales-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sergiu-sa/sergiu-sa/koi/scales-light.svg" width="880" alt="" />
 </picture>
 
-### Front-end developer in Oslo, Norway
+# Sergiu Sarbu
 
-I'm a creative explorer and an occasional chaos mechanic, with a mind wired for problem-solving. I build responsive, user-centred web apps with clean code and deliberate UI.
+**Front-end developer in Oslo.** Creative explorer and occasional chaos mechanic, with a mind wired for problem-solving. I build responsive, user-centred web apps with clean code and deliberate UI.
 
 <p>
-  <a href="mailto:sergiudsarbu@gmail.com"><img src="./assets/status.svg" width="309" alt="Open to work, freelance and collaborations" /></a><br />
-  <a href="https://portfolio-sergiu-sa.netlify.app/"><img src="./assets/link-portfolio.svg" width="100" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/sergiu-sarbu-39154226a/"><img src="./assets/link-linkedin.svg" width="100" alt="LinkedIn" /></a>
-  <a href="mailto:sergiudsarbu@gmail.com"><img src="./assets/link-email.svg" width="100" alt="Email" /></a>
+  <a href="mailto:sergiudsarbu@gmail.com"><img src="./assets/status.svg" height="30" alt="Open to work, freelance and collaborations" /></a>
+  <a href="https://portfolio-sergiu-sa.netlify.app/"><img src="./assets/link-portfolio.svg" height="30" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sergiu-sarbu-39154226a/"><img src="./assets/link-linkedin.svg" height="30" alt="LinkedIn" /></a>
+  <a href="mailto:sergiudsarbu@gmail.com"><img src="./assets/link-email.svg" height="30" alt="Email" /></a>
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sergiu-sa/sergiu-sa/koi/koi-dark.gif" />
+    <img src="https://raw.githubusercontent.com/sergiu-sa/sergiu-sa/koi/koi-light.gif" width="384" alt="A pixel-art koi, painted in the colours of the languages I write, that grows with my GitHub activity." />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sergiu-sa/sergiu-sa/koi/key-dark.svg" />
+    <img src="https://raw.githubusercontent.com/sergiu-sa/sergiu-sa/koi/key-light.svg" width="400" alt="Colour key: each language I write and the colour it paints on the koi." />
+  </picture>
 </p>
 
 ### Stack
 
-- **Languages:** `TypeScript` `JavaScript` `HTML` `CSS`
-- **Frameworks:** `React` `Next.js`
-- **Styling and motion:** `Tailwind CSS` `CSS Modules` `GSAP`
-- **Tools:** `Vite` `Git` `Figma` `Netlify` `AI-assisted workflows`
-
-<p>
-  <img src="./assets/koi-tooltip.svg" width="338" alt="" /><br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sergiu-sa/sergiu-sa/koi/koi-dark.gif" />
-    <img src="https://raw.githubusercontent.com/sergiu-sa/sergiu-sa/koi/koi-light.gif" width="507" alt="A pixel-art koi swimming inside a DevTools box-model highlight." />
-  </picture>
-</p>
-
-<sub>This koi grows with my GitHub activity. Every night it's redrawn from the day before.</sub>
-
-<details>
-<summary><b>Recently shipped</b></summary>
-
-- [**Filmood**](https://filmood-pi.vercel.app): pick a mood, get a film to watch tonight.
-- [**Holidaze**](https://holidaze-black.vercel.app): book a place to stay, or list your own.
-- [**Auction House**](https://auctohouse.netlify.app/): bid on listings with credits, on the Noroff API.
-
-</details>
+`React` `Next.js` `Tailwind CSS` `CSS Modules` `GSAP` `Vite` `Git` `Figma` `Netlify`
