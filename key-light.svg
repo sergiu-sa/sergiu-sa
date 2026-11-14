@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 384" width="400" height="384" role="img" aria-labelledby="t">
+<title id="t">Colour key: each language I write and the colour it paints on the koi</title>
+<rect x="0.5" y="0.5" width="399" height="383" rx="6" fill="#f6f8fa" stroke="#d1d9e0"/>
+<text x="24" y="44" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#1f2328">Painted with my languages</text>
+<text x="24" y="67" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif" font-size="13" fill="#59636e">Every colour on this koi comes from a language I write.</text>
+<circle cx="30" cy="120" r="6" fill="#3178c6"/>
+<text x="46" y="125" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1f2328">TypeScript</text>
+<text x="150" y="125" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif" font-size="14" fill="#59636e">58%</text>
+<rect x="200.5" y="113.5" width="13" height="13" fill="#0099db" stroke="#d1d9e0"/>
+<rect x="217.5" y="113.5" width="13" height="13" fill="#2ce8f5" stroke="#d1d9e0"/>
+<text x="242" y="125" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2328" fill-opacity="0.85">the netted sky blue back</text>
+<line x1="24" y1="151" x2="376" y2="151" stroke="#d1d9e0"/>
+<circle cx="30" cy="182" r="6" fill="#f1e05a"/>
+<text x="46" y="187" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1f2328">JavaScript</text>
+<text x="150" y="187" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif" font-size="14" fill="#59636e">33%</text>
+<rect x="200.5" y="175.5" width="13" height="13" fill="#fee761" stroke="#d1d9e0"/>
+<rect x="217.5" y="175.5" width="13" height="13" fill="#fff3b0" stroke="#d1d9e0"/>
+<text x="242" y="187" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2328" fill-opacity="0.85">the yellow sides</text>
+<line x1="24" y1="213" x2="376" y2="213" stroke="#d1d9e0"/>
+<circle cx="30" cy="244" r="6" fill="#e34c26"/>
+<text x="46" y="249" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1f2328">HTML</text>
+<text x="150" y="249" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif" font-size="14" fill="#59636e">8%</text>
+<rect x="200.5" y="237.5" width="13" height="13" fill="#f0604f" stroke="#d1d9e0"/>
+<rect x="217.5" y="237.5" width="13" height="13" fill="#f6757a" stroke="#d1d9e0"/>
+<text x="242" y="249" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2328" fill-opacity="0.85">the red at the fin roots</text>
+<line x1="24" y1="275" x2="376" y2="275" stroke="#d1d9e0"/>
+<path d="M30 299 l2 5 5 .5 -4 3.5 1.3 5 -4.3 -2.7 -4.3 2.7 1.3 -5 -4 -3.5 5 -.5 Z" fill="#feae34"/>
+<text x="46" y="311" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1f2328">34-week streak</text>
+<rect x="200.5" y="299.5" width="13" height="13" fill="#feae34" stroke="#d1d9e0"/>
+<rect x="217.5" y="299.5" width="13" height="13" fill="#fee761" stroke="#d1d9e0"/>
+<text x="242" y="311" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2328" fill-opacity="0.85">the gold on its fin tips</text>
+<text x="24" y="360" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">From 12 public repos. Redrawn every night at 00:20 UTC.</text>
+</svg>
